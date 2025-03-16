@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KhushbooGuptaGit
 - 👀 I’m quite curious and interested to explore about tech and developing
 - 🌱 I’m currently pursuing BTech in CSE
-- 💞️ I’m looking to contribute in the tech industries and in development.
+-  I’m looking to contribute in the tech industries and in development.
